@@ -1,0 +1,7 @@
+path: yoloDataset
+train: train
+val: val
+names:
+  0: Low
+  1: Medium
+  2: High
